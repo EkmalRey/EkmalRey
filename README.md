@@ -20,16 +20,17 @@
 
 </div>
 
+##
+
+- **Nationality**: 🇮🇩 Indonesia
+- **Education**: Currently enrolled as a Third-year student, Bachelor of Data Science at Telkom University
+- **Availability**: Open to internships, research roles, and full-time opportunities
+- **Contact**: [ekmalreyhan@gmail.com](mailto:ekmalreyhan@gmail.com)
+
 ###
 
 ```python
-about_me = {
-  status: {
-    nationality: "🇮🇩 Indonesia",
-    education: "Currently enrolled as Third-year student, Bachelor of Data Science at Telkom University",
-    availability: "Open to internships, research roles, and full-time opportunities",
-    contact: "ekmalreyhan@gmail.com"
-  }
+EkmalRey = {
   language: ["Python", "SQL", "Go", "Java", "C++"],
   tools: ["TensorFlow", "PyTorch", "BeautifulSoup", "Pandas", "Matplotlib", "Numpy", ],
   expertise: ["machine learning", "computer vision", "data science", "data analytics", "web scraping"],
@@ -46,13 +47,10 @@ about_me = {
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9g1lz9.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekmalrey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ekmalrey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://i.imgflip.com/9g1lz9.gif"  />
 </div>
 
 ###

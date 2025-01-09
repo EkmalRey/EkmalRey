@@ -47,20 +47,41 @@ EkmalRey = {
 
 ###
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=475&langs_count=5&theme=transparent&hide_border=true" height="150" alt="EkmalRey Most Used Language"  /> 
-  <img align="right" src="https://i.imgflip.com/9g1lz9.gif" height="150" width="320"  style="padding-right: 20px;" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true" 
+    height="150" 
+    alt="EkmalRey Most Used Language" 
+    style="flex: 1; min-width: 300px; max-width: 475px" 
+  />
+  <img 
+    src="https://i.imgflip.com/9g1lz9.gif" 
+    height="150" 
+    alt="Cool Animation" 
+    style="flex: 1; min-width: 300px; max-width: 320px" 
+  />
 </div>
 
 ###
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg"/>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg" 
+    />
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg" 
+      style="max-width: 100%; height: auto;" 
+    />
   </picture>
 </div>
+
 
 ###
 

@@ -48,18 +48,17 @@ EkmalRey = {
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ekmalrey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://i.imgflip.com/9g1lz9.gif"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=475&langs_count=5&theme=transparent&hide_border=true" height="150" alt="EkmalRey Most Used Language"  /> 
+  <img align="right" src="https://i.imgflip.com/9g1lz9.gif" height="150" width="320"  style="padding-right: 20px;" />
 </div>
 
 ###
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ekmalrey/ekmalrey/output/github-snake.svg"/>
   </picture>
 </div>
 

@@ -31,17 +31,17 @@
 
 ```python
 EkmalRey = {
-  language: ["Python", "SQL", "Go", "Java", "C++"],
-  tools: ["TensorFlow", "PyTorch", "BeautifulSoup", "Pandas", "Matplotlib", "Numpy", ],
-  expertise: ["machine learning", "computer vision", "data science", "data analytics", "web scraping"],
+  language  : ["Python", "SQL", "Go", "Java", "C++"],
+  tools     : ["TensorFlow", "PyTorch", "BeautifulSoup", "Pandas", "Matplotlib", "Numpy", ],
+  expertise : ["machine learning", "computer vision", "data science", "data analytics", "web scraping"],
   experience: {
-    research: "Research Assistant at AILO Center of Excellence",
-    leadership: [
-                  "Head of Human Resources Development at HIMA Data Science Telkom University",
-                  "Manager at TelU Esports"
-                ]
+        research  : "Research Assistant at AILO Center of Excellence",
+        leadership: [
+                    "Head of Human Resources Development at HIMA Data Science Telkom University",
+                    "Manager at TelU Esports"
+                    ]
   },
-  challenge: "I am exploring advanced AI techniques and contributing to real-world data science projects!"
+  challenge : "I am exploring advanced AI techniques and contributing to real-world data science projects!"
 }
 ```
 

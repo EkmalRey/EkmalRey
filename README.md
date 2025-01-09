@@ -47,7 +47,7 @@ EkmalRey = {
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true" 
     height="150" 

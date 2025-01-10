@@ -91,4 +91,11 @@ EkmalRey = {
 
 <details>
   <summary>📦 Things i worked on </summary>
+
+  | Name                 | A short summary                              | Stars   |
+  | -------------------- | -------------------------------------------- | ------- |
+  | [ImgClassificationPipeline](https://github.com/EkmalRey/ImgClassificationPipeline) | Complete CNN pipeline for image classification with TensorFlow and Keras, covering data preparation, model development, training, evaluation, and performance visualization. | ![GitHub Repo stars](https://img.shields.io/github/stars/EkmalRey/ImgClassificationPipeline) |
+  | [BackendInventoryBarang](https://github.com/Farrellhrs/BackendInventoryBarang) | Modular backend application for warehouse data management, built with Spark Java REST API, featuring separate layers for routes, database connections, and business logic. | ![GitHub Repo stars](https://img.shields.io/github/stars/Farrellhrs/BackendInventoryBarang) |
+  <!-- | a | a | a | -->
+
 </details>

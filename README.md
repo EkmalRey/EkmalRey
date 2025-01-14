@@ -49,7 +49,7 @@ EkmalRey = {
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=400&langs_count=6&theme=transparent&hide_border=true" 
     height="150" 
     alt="EkmalRey Most Used Language" 
     style="flex: 1; min-width: 300px; max-width: 475px" 

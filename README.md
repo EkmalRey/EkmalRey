@@ -62,7 +62,7 @@ EkmalRey = {
   />
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <picture>
@@ -80,7 +80,7 @@ EkmalRey = {
       style="max-width: 100%; height: auto;" 
     />
   </picture>
-</div>
+</div> -->
 
 
 ###

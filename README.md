@@ -23,8 +23,9 @@
 ##
 
 - **Nationality**: 🇮🇩 Indonesia
-- **Education**: Currently enrolled as a Third-year student, Bachelor of Data Science at Telkom University
-- **Availability**: Open to internships, research roles, and full-time opportunities
+- **Current Role**: Data Analyst Intern at PZ Cussons
+- **Education**: Graduated with a Bachelor of Data Science from Telkom University 3.77/4.00 GPA
+- **Availability**: Currently a Data Analyst at PZ Cussons; actively seeking challenging full-time opportunities in AI/ML, Data Science, and Computer Vision
 - **Contact**: [ekmalreyhan@gmail.com](mailto:ekmalreyhan@gmail.com)
 
 ###
@@ -32,37 +33,21 @@
 ```python
 EkmalRey = {
   language  : ["Python", "SQL", "Go", "Java", "C++"],
-  tools     : ["TensorFlow", "PyTorch", "BeautifulSoup", "Pandas", "Matplotlib", "Numpy", ],
+  tools     : ["TensorFlow", "PyTorch", "BeautifulSoup", "Pandas", "NumPy", "PowerBI", "Dataflows", "FastAPI"],
   expertise : ["machine learning", "computer vision", "data science", "data analytics", "web scraping"],
   experience: {
+        work : ["Data Analyst Intern at PZ Cussons", "AI Engineer Intern at Faculty of Informatics Telkom University"],
         research  : "Research Assistant at AILO Center of Excellence",
         leadership: [
-                    "Head of Human Resources Development at HIMA Data Science Telkom University",
+                    "Head of Human Resources Development at HIMA Data ScienceTelkom University",
                     "Manager at TelU Esports"
-                    ]
+        ]
   },
   challenge : "I am exploring advanced AI techniques and contributing to real-world data science projects!"
 }
 ```
 
 ###
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ekmalrey&locale=en&layout=compact&card_width=400&langs_count=6&theme=transparent&hide_border=true" 
-    height="150" 
-    alt="EkmalRey Most Used Language" 
-    style="flex: 1; min-width: 300px; max-width: 475px" 
-  />
-  <img 
-    src="https://i.imgflip.com/9g1lz9.gif" 
-    height="150" 
-    alt="Cool Animation" 
-    style="flex: 1; min-width: 300px; max-width: 320px" 
-  />
-</div>
-
-<!-- ###
 
 <div align="center">
   <picture>
@@ -80,7 +65,7 @@ EkmalRey = {
       style="max-width: 100%; height: auto;" 
     />
   </picture>
-</div> -->
+</div>
 
 
 ###
